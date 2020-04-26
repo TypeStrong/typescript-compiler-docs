@@ -11,3 +11,4 @@ The TypeScript compiler can be daunting, and a lot is undocumented.
 * How JSDoc Support was Added to TypeScript - PR Review
   * https://www.youtube.com/watch?v=3vwO4DwlGYE
   * https://www.youtube.com/watch?v=Xq4p5LXaO8Y
+* https://github.com/HearTao/ts-creator
