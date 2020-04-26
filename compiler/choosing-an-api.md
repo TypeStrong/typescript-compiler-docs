@@ -26,3 +26,9 @@ This page attempts to list and explain each API as best we understand. Each shou
 ## `WatchProgram`
 
 ## `IncrementalProgram`
+
+## `executeCommandLine`
+
+* Implements the `tsc` CLI
+* Accepts a `sys` implementation (default use `ts.sys`), an argv array, and a callback to fire when it's finished.
+* Not exported from `require('typescript')`; I'm not sure how to get access to it.
