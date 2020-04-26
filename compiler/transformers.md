@@ -4,6 +4,7 @@ Here's a very abstract example of a transformer's input and output ASTs.  These 
 
 The transformer wants to replace `biff` with `barry`.
 
+Input:
 ```
 root
   foo
@@ -12,6 +13,7 @@ root
     biff
 ```
 
+Output:
 ```
 newRoot
   foo
