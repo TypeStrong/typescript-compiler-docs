@@ -12,3 +12,6 @@ The TypeScript compiler can be daunting, and a lot is undocumented.
   * https://www.youtube.com/watch?v=3vwO4DwlGYE
   * https://www.youtube.com/watch?v=Xq4p5LXaO8Y
 * https://github.com/HearTao/ts-creator
+* Anders talking about the compiler's design, and modern compiler design in general:
+  * https://www.youtube.com/watch?v=f6TCB61fDwY
+  * https://www.youtube.com/watch?v=wSdV1M7n4gQ
