@@ -15,3 +15,4 @@ The TypeScript compiler can be daunting, and a lot is undocumented.
 * Anders talking about the compiler's design, and modern compiler design in general:
   * https://www.youtube.com/watch?v=f6TCB61fDwY
   * https://www.youtube.com/watch?v=wSdV1M7n4gQ
+* `byots`: exposes all of TypeScript's `@internal` API surface via type declarations: https://www.npmjs.com/package/byots
